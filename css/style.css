@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(357deg, rgba(153, 204, 204, 1) 0%, rgba(192, 224, 224, 1) 100%);
+    align-items: center;
+}
+
+.container {
+    max-width: 800px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+img {
+    border: 2px solid black;
+}
+
+#vloot1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#vloot2 {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#vloot3 {
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
